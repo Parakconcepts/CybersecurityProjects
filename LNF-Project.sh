@@ -1,4 +1,6 @@
 #!/bin/bash
+#A Simple bash script displaying a summary of my Kali Linux OS information 
+#and refreshing every 10 seconds. The script was written using Nano shell environment.
 
 while [ 1==1 ]
 do 
