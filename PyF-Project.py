@@ -6,6 +6,7 @@ import psutil
 import time
 from datetime import datetime
 #ThinkCyber Python Fundamental Project XE105 OS-INFO By Olalekan Ilori - s4
+#Python scripts to monitor System usage
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 s.connect(("8.8.8.8", 80))
